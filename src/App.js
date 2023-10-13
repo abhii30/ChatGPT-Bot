@@ -52,7 +52,7 @@ function App() {
     <div className="App">
       <div className="main-div">
         <div className="secondary-div">
-          <div className="main-heading">Streaming OpenAI API</div>
+          <div className="main-heading">ChatGPT Bot</div>
           <div className="result-container">
             <p className="result-heading">Generated Text</p>
             <p className="result-text">{result}</p>
